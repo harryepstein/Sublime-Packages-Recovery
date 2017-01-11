@@ -1,0 +1,41 @@
+{
+	"bold_folder_labels": true,
+	"carat_style": "phase",
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 3,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Colorsublime - Themes/Welded.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Cousine for Powerline",
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"reindent_on_save":
+	[
+		"py",
+		"sublime-settings",
+		"html",
+		"css",
+		"javascript"
+	],
+	"save_on_focus_lost": true,
+	"sidebar_font_big": true,
+	"sidebar_font_small": true,
+	"tab_size": 2,
+	"theme": "Cobalt2.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true
+}
